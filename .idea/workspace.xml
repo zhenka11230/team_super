@@ -43,7 +43,7 @@
       <file leaf-file-name="CommentAndVoteView.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CommentAndVoteView.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="27" selection-start="2930" selection-end="2930" vertical-scroll-proportion="1.5647193">
+            <state line="36" column="55" selection-start="1294" selection-end="1294" vertical-scroll-proportion="0.36646706">
               <folding />
             </state>
           </provider>
@@ -95,8 +95,8 @@
         <option value="$PROJECT_DIR$/bootstrap.php" />
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/db.php" />
-        <option value="$PROJECT_DIR$/CommentAndVoteView.php" />
         <option value="$PROJECT_DIR$/CommentAndVoteController.php" />
+        <option value="$PROJECT_DIR$/CommentAndVoteView.php" />
       </list>
     </option>
   </component>
@@ -183,7 +183,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -264,13 +264,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="18" selection-start="479" selection-end="479" vertical-scroll-proportion="0.0">
@@ -285,6 +278,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CommentAndVoteController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="103" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0">
@@ -294,7 +294,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CommentAndVoteView.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="27" selection-start="2930" selection-end="2930" vertical-scroll-proportion="1.5647193">
+        <state line="36" column="55" selection-start="1294" selection-end="1294" vertical-scroll-proportion="0.36646706">
           <folding />
         </state>
       </provider>
