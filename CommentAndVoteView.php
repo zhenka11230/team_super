@@ -153,6 +153,7 @@
 
         scope.addComment = function(){
             $xhr('get', "CommentAndVoteController.php?action=add_comment&user_id=2&show_id=1&comment=" + scope.comment, function(code, response) {
+                scope.comment = null;
                 scope.fetchComments();
             });
         }
